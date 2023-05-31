@@ -1,0 +1,7 @@
+{
+  "name": "vaipraondeFront",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
